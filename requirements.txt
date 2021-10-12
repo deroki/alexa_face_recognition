@@ -25,7 +25,7 @@ mote==0.0.4
 motephat==0.0.2
 numpy==1.18.1
 oauthlib==2.0.1
-opencv-contrib-python==4.1.1.26
+opencv-contrib-python==4.2.0.32
 pantilthat==0.0.7
 pgzero==1.2
 phatbeat==0.1.1
